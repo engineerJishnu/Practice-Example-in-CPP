@@ -5,5 +5,8 @@ C++ programming example by self learning mainly to get acquainted with basic syn
 
 For this, I am looking for a platform either in gaming industry or an Industrial IOT firm where C++ is also used apart from other web building frameworks.
 
+This was done in windows 10 platform using Microsoft Visual Studio - Community Edition.
+
+
 
 
